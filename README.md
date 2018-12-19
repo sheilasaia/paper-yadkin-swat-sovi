@@ -1,12 +1,11 @@
 # paper-yadkin-swat-sovi
 Data repository for paper titled: "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability".
 
-(DOI *Earth ArXiv* link XXXX)
-(DOI *Earth's Future* link XXXX)
+(DOI *Ecosystems* link XXXX)
 
-This README.md file was generated on 20181112 by Sheila Saia.
+This README.md file was generated on 20181219 by Sheila Saia.
 
-This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability" in *Earth's Future* (paper link XXXX).
+This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability" in *Ecosystems* (paper link XXXX).
 
 ## General Information ##
 
@@ -37,7 +36,7 @@ Please use and distribute according to CC-BY v4.0. For a human readible version 
 SWAT simulated streamflow data was also used by [Suttles et al. (XXXX)](XXXX).
 
 **Links to other publicly accessible locations of the data**<br>
-This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-sovi and via Zenodo (XXXX). The associated publication is available via *Earth's Future* (XXXX).
+This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-sovi and via Zenodo (XXXX). The associated publication is available via *Ecosystems* (XXXX).
 
 **Links/relationships to ancillary data sets**<br>
 All links to publically available data is described here and in Saia et al. (XXXX) and Suttles et al. (2018). With respect to simulated data and data analysis scripts, there is data is also linked to the study dataset explained in [Suttles et al. (XXXX)](XXXX).
@@ -55,7 +54,7 @@ All publically available data is described here, in Saia et al. (XXXX), and in S
 XXXX
 
 **Paper Availability**<br>
-The paper is available online at via [*Earth's Future*](XXXX), [*Earth ArXiv*](XXXX) [*Treesearch*](XXXX). If you do not have a subscription to the journal or are having trouble accessing it, please contact Sheila Saia directly for a copy of the pre-print.
+The paper is available online at via [*Ecosystems*](XXXX), [*Ecosystems*](XXXX) [*Treesearch*](XXXX). If you do not have a subscription to the journal or are having trouble accessing it, please contact Sheila Saia directly for a copy of the pre-print.
 
 ## Data & File Overview ##
 This repository is organized into XXXX main directories:
@@ -81,10 +80,10 @@ This subdirectory does not contain any raw data because everything in it was aut
 ## Methodological Information ##
 
 **Description of methods used for collection/generation of data:**<br>
-See the associated *Earth's Future* journal article for a full description of the methods used to collect and analyze these data.
+See the associated *Ecosystems* journal article for a full description of the methods used to collect and analyze these data.
 
 **Methods for processing the data:**<br>
-See the R and Python scripts in this repository as well as the associated *Earth's Future* journal article for a full description of the methods used to collect and analyze these data.
+See the R and Python scripts in this repository as well as the associated *Ecosystems* journal article for a full description of the methods used to collect and analyze these data.
 
 **Instrument- or software-specific information needed to interpret the data:**<br>
 R (open-source, [https://www.r-project.org/](https://www.r-project.org/)) is needed to run .R files, Microsoft Excel (license required, [https://products.office.com/en-us/excel](https://products.office.com/en-us/excel)) is needed to open .xlsx files, and Matlab (license required, [https://www.mathworks.com/products/matlab.html](https://www.mathworks.com/products/matlab.html)) is needed to run .m files. Land use and land cover data can be opened using ArcGIS (license required, [desktop.arcgis.com/en/](desktop.arcgis.com/en/)) or QGIS (open-source, [https://qgis.org/en/site/](https://qgis.org/en/site/)).
