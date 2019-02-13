@@ -1,4 +1,4 @@
-# paper-yadkin-swat-sovi
+# paper-yadkin-swat-svi-study
 Data repository for paper titled: "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability".
 
 (DOI *Ecosystems* link XXXX)
@@ -10,7 +10,7 @@ This GitHub repository was created to provide access to collected data, analysis
 ## General Information ##
 
 **Title of Dataset**<br>
-"paper-yadkin-swat-sovi"
+"paper-yadkin-swat-svi-study"
 
 **Dataset & Repo Contact Information**<br>
 Name: Sheila Saia<br>
@@ -19,7 +19,7 @@ Address: XXXX Cornwallis Road, Durham, NC 27703<br>
 Email: ssaia at ncsu dot edu
 
 **Date of data collection**<br>
-SWAT model outputs were generated in 2016. United States Forest Service landuse predictions were generated in 2015. SoVI results were downloaded from the Centers for Disease Control XXXX website (link XXXX) in 2018. All other data originated from publically available sites as described in the associated paper.
+SWAT model outputs were generated in 2016. United States Forest Service landuse predictions were generated in 2015. SVI results were downloaded from the Centers for Disease Control XXXX website (link XXXX) in 2018. All other data originated from publically available sites as described in the associated paper.
 
 **Geographic location of data collection**<br>
 All data is associated with the Upper Yadkin-Pee Dee River Watershed in North Carolina, USA.
@@ -36,7 +36,7 @@ Please use and distribute according to CC-BY v4.0. For a human readible version 
 SWAT simulated streamflow data was also used by [Suttles et al. (XXXX)](XXXX).
 
 **Links to other publicly accessible locations of the data**<br>
-This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-sovi and via Zenodo (XXXX). The associated publication is available via *Ecosystems* (XXXX).
+This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-svi-study and via Zenodo (XXXX). The associated publication is available via *Ecosystems* (XXXX).
 
 **Links/relationships to ancillary data sets**<br>
 All links to publically available data is described here and in Saia et al. (XXXX) and Suttles et al. (2018). With respect to simulated data and data analysis scripts, there is data is also linked to the study dataset explained in [Suttles et al. (XXXX)](XXXX).
