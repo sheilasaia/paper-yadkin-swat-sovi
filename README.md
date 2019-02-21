@@ -3,7 +3,7 @@ Data repository for paper titled: "Applying Climate Change Risk Management Tools
 
 (DOI *Ecosystems* link XXXX)
 
-This README.md file was generated on 20181219 by Sheila Saia.
+This README.md file was generated on 20190220 by Sheila Saia.
 
 This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability" in *Ecosystems* (paper link XXXX).
 
