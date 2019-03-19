@@ -3,7 +3,7 @@ Data repository for paper titled: "Applying Climate Change Risk Management Tools
 
 (DOI *Ecosystems* link XXXX)
 
-This README.md file was generated on 20190220 by Sheila Saia.
+This README.md file was generated on 20190319 by Sheila Saia.
 
 This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability" in *Ecosystems* (paper link XXXX).
 
@@ -15,11 +15,11 @@ This GitHub repository was created to provide access to collected data, analysis
 **Dataset & Repo Contact Information**<br>
 Name: Sheila Saia<br>
 Institution: United States Department of Agriculture Forest Service, Southern Research Station<br>
-Address: XXXX Cornwallis Road, Durham, NC 27703<br>
+Address: 3041 Cornwallis Road, Durham, NC 27709<br>
 Email: ssaia at ncsu dot edu
 
 **Date of data collection**<br>
-SWAT model outputs were generated in 2016. United States Forest Service landuse predictions were generated in 2015. SVI results were downloaded from the Centers for Disease Control XXXX website (link XXXX) in 2018. All other data originated from publically available sites as described in the associated paper.
+SWAT model outputs were generated in 2016 and are available at (link to Kelly's paper data). United States Forest Service landuse predictions were generated in 2015. SVI results (2010-2014) were downloaded from the Centers for Disease Control Agency for Toxic Substance and Disease Registry (ATSDR) website [https://svi.cdc.gov/](https://svi.cdc.gov/) in 2018. All other data originated from publically available sites as described in the associated paper.
 
 **Geographic location of data collection**<br>
 All data is associated with the Upper Yadkin-Pee Dee River Watershed in North Carolina, USA.
