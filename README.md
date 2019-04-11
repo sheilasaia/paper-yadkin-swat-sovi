@@ -1,7 +1,7 @@
 # paper-yadkin-swat-svi-study
 Data repository for paper titled: "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability".
 
-(DOI *Ecosystems* link XXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635878.svg)](https://doi.org/10.5281/zenodo.2635878)
 
 This README.md file was generated on 20190410 by Sheila Saia.
 
