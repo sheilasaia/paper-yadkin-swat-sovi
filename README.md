@@ -316,16 +316,16 @@ See the R and Python scripts in this repository as well as the associated *Ecosy
 R (open-source, version 3.4.3, [https://www.r-project.org/](https://www.r-project.org/)) is needed to run .R files, Python (open-source, version 2.7, [https://www.python.org/](https://www.python.org/)) is needed to run .R files, and an ESRI ArcGIS (license required, version 10.4.1, [http://desktop.arcgis.com/en/](http://desktop.arcgis.com/en/)) license is required to run Python scripts that use the arcpy library. Land use data (.tif) and shape files (.shp) can be opened using ESRI ArcGIS or QGIS (open-source, version 2.18 [https://qgis.org/en/site/](https://qgis.org/en/site/). R, Python, or an all purpose text editor can be used to run .csv and .txt files.
 
 **Standards and calibration information, if appropriate:**<br>
-Information on calibrations are included in the 'Raw Data' section of this README file.
+See [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780) for destails on SWAT model calibration.
 
 **Environmental/experimental conditions:**<br>
-See the associated *Science of the Total Environment* journal article for a full description of observed and modeled data used in this study.
+See the associated *Ecosystems* journal article and [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780) for a full description of observed and modeled data used in this study.
 
 **Describe any quality-assurance procedures performed on the data:**<br>
-SWAT simulations were calibrated and validated. This is described in further detail in Suttles et al. (2018). When possible, data analysis was automated in MatLab and R to ensure consistency.
+SWAT simulations were calibrated and validated. This is described in further detail in [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780). When possible, data analysis was automated in R and Python to ensure consistency.
 
 **People involved with sample collection, processing, analysis and/or submission:**<br>
-See the associated *Science of the Total Environment* journal article for a full description of author contributions and acknowledgments.
+See the associated *Ecosystems* journal article for a full description of author contributions and acknowledgments.
 
 ## Data-Specific Information For Tabular Data ##
 
