@@ -19,7 +19,7 @@ Address: 3041 Cornwallis Road, Durham, NC 27709<br>
 Email: ssaia at ncsu dot edu
 
 **Date of data collection**<br>
-Soil and Water Assessment Tool (SWAT) model outputs were generated in 2016 and are available at on GitHub at https://github.com/sheilasaia/paper-yadkin-swat-study. United States Forest Service (USFS) land use predictions were generated in 2015 and are also available at the previously mentioned GitHub link. Social vulnerability index (SVI) results (2010-2014) were downloaded from the [Centers for Disease Control Agency for Toxic Substance and Disease Registry (ATSDR) website](https://svi.cdc.gov/data-and-tools-download.html) in 2018. All other data originated from publically available sites as described in the paper associated with this dataset.
+Soil and Water Assessment Tool (SWAT) model outputs were generated in 2016 and are available at on GitHub at https://github.com/sheilasaia/paper-yadkin-swat-study. United States Forest Service (USFS) land use predictions were generated in 2015 and are also available at the previously mentioned GitHub link. Social vulnerability index (SVI) results (2010-2014) were downloaded from the [Centers for Disease Control Agency for Toxic Substance and Disease Registry (ATSDR) data download website](https://svi.cdc.gov/data-and-tools-download.html) in 2018. All other data originated from publically available sites as described in the paper associated with this dataset.
 
 **Geographic location of data collection**<br>
 All data is associated with the Yadkin-Pee Dee River Watershed (YPD) in North Carolina, USA.
@@ -39,13 +39,13 @@ SWAT simulated streamflow data was also used by [Suttles et al. (2018)](https://
 This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-svi-study and via Zenodo (XXXX). The associated publication is available via *Ecosystems* (XXXX) and via *Treesearch* (XXXX).
 
 **Links/relationships to ancillary data sets**<br>
-All links to publically available data are described here, in Saia et al. (2019) and [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780).
+All links to publically available data are described here, in Saia et al. (2019), and [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780).
 
 **Data derived from another source**<br>
 All links to publically available data are described here, in Saia et al. (2019), and in [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780).
 
 **Additional related data collected that was not included in the current data package**<br>
-This directory does not include all environmental data required to run and calibrate the SWAT model developed by Suttles et al. 2018. For this information, visit: https://github.com/sheilasaia/paper-yadkin-swat-study.
+This directory does not include all environmental data required to run and calibrate the SWAT model developed by [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780). For this information, visit the GitHub repository associated with Suttles et al. (2018): https://github.com/sheilasaia/paper-yadkin-swat-study.
 
 **Are there multiple versions of the dataset?**<br>
 All publically available data is described here, in Saia et al. (2019), and in [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780). With respect to simulated data and data analysis scripts, there are no other versions available online.
@@ -54,10 +54,10 @@ All publically available data is described here, in Saia et al. (2019), and in [
 Saia, S.M., K.M. Suttles, B.B. Cutts, R.E. Emanuel, K.L. Martin, D.N. Wear, J.W. Coulston, J.M. Vose. 2019. Applying Climate Change Risk Management Tools to Integrate Streamflow Projections and Social Vulnerability. *Ecosystems*. XXXX(XXXX):XXXX-XXXX.
 
 **Paper Availability**<br>
-The paper is available online at via [*Ecosystems*](XXXX), [*Ecosystems*](XXXX) and [*Treesearch*](XXXX). If you do not have a subscription to the journal or are having trouble accessing it, please contact Sheila Saia directly for a copy of the pre-print.
+The paper is available online at via [*Ecosystems*](XXXX) and [*Treesearch*](XXXX). If you do not have a subscription to the journal or are having trouble accessing it, please contact Sheila Saia directly for a copy of the pre-print.
 
 ## Data & File Overview ##
-This repository is organized into two main directories: (1) 'swat\_svi\_python\_analysis' and (2) 'swat\_svi\_r\_analysis'.
+This repository is organized into two main directories: (1) swat\_svi\_python\_analysis and (2) swat\_svi\_r\_analysis.
 
 ### 1. swat\_svi\_python\_analysis directory ###
 The swat\_svi\_python\_analysis directory contains two sub directories: data and scripts. The data directory includes spatial data and a scratch directory needed for storing temporary outputs. The scripts directory includes Python scripts (.py files) for calculating percent land cover for each subbasin and scaling SVI data from the census tract to  subbasin scale.
@@ -224,7 +224,7 @@ Filename: kn\_table\_appendix4\_usgsbulletin17b.csv <br>
 Short description: This file was created by converting the k<sub/>n</sub> table in Appendix 4 from the USGS Bulletin 17b as referenced in Saia et al. (2019). <br>
 
 Filename: us\_svi\_2014\_albers.txt <br>
-Short description: This file was derived spatial SVI data obtained on the ATSDR website (https://svi.cdc.gov/data-and-tools-download.html) for all census tracts in the United States but does not include spatial data (i.e., it was obtained by exporting the attribute data in ESRI ArcGIS). For further details on where this information was obtained, see the README file in the spatial directory (see 2.5.1). It was projected to United States of America Contiguous Albers Equal Area Conic USGS projection using ESRI ArcGIS; we did not check the 'preserve shape' box. <br>
+Short description: This file was derived spatial SVI data obtained on the the [ATSDR data download website](https://svi.cdc.gov/data-and-tools-download.html) for all census tracts in the United States but does not include spatial data (i.e., it was obtained by exporting the attribute data in ESRI ArcGIS). For further details on where this information was obtained, see the README file in the spatial directory (see 2.5.1). It was projected to United States of America Contiguous Albers Equal Area Conic USGS projection using ESRI ArcGIS; we did not check the 'preserve shape' box. <br>
 
 Filename: us\_svi\_2014\_albers\_reformatted.txt <br>
 Short description: This file is the reformatted version of us\_svi\_2014\_albers.txt. Reformatting was done using the svi\_reformatted.R script (see 2.2). <br>
@@ -330,7 +330,7 @@ See the associated *Science of the Total Environment* journal article for a full
 ## Data-Specific Information For Tabular Data ##
 
 **Variable list**<br>
-Variables descirptions for *output.rch files are included in the GitHub repository associated with Suttles et al. (2018) found here: https://github.com/sheilasaia/paper-yadkin-swat-study and in README files within the associated tabular data directory. SVI, land use, and SWAT model variable listings are described in the associated tabular data directory README file (see swat\_svi\_r\_analysis > data > tabular). For further descriptions of SVI data variables see the [ATSDR website] (https://svi.cdc.gov/data-and-tools-download.html). For further description of NLCD data variables see the [NLCD website](https://catalog.data.gov/dataset/usgs-national-land-cover-dataset-nlcd-downloadable-data-collection). For further description of SWAT output.rch file variables see the [SWAT Documentation] (https://swat.tamu.edu/media/69395/ch32_output.pdf).
+Variables descirptions for *output.rch files are included in the GitHub repository associated with Suttles et al. (2018) found here: https://github.com/sheilasaia/paper-yadkin-swat-study and in README files within the associated tabular data directory. SVI, land use, and SWAT model variable listings are described in the associated tabular data directory README file (see swat\_svi\_r\_analysis > data > tabular). For further descriptions of SVI data variables see the [ATSDR data download website](https://svi.cdc.gov/data-and-tools-download.html). For further description of NLCD data variables see the [NLCD website](https://catalog.data.gov/dataset/usgs-national-land-cover-dataset-nlcd-downloadable-data-collection). For further description of SWAT output.rch file variables see the [SWAT Documentation] (https://swat.tamu.edu/media/69395/ch32_output.pdf).
 
 **Missing data codes**<br>
 'NA' indicates missing data unless otherwise noted.
