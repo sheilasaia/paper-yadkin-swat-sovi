@@ -5,7 +5,7 @@ Data repository for paper titled: "Applying Climate Change Risk Management Tools
 
 This README.md file was generated on 20190410 by Sheila Saia.
 
-This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability" in *Ecosystems* (paper link XXXX).
+This GitHub repository was created to provide access to collected data, analysis code, and other information associated with the paper by Saia et al. titled "Applying Climate Change Risk Management Tools to Combine Streamflow Projections and Social Vulnerability" in *Ecosystems* (paper link: https://link.springer.com/article/10.1007/s10021-019-00387-5).
 
 ## General Information ##
 
@@ -36,7 +36,7 @@ Please use and distribute according to CC-BY v4.0. For a human readible version 
 SWAT simulated streamflow data was also used by [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780).
 
 **Links to other publicly accessible locations of the data**<br>
-This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-svi-study and via Zenodo (XXXX). The associated publication is available via *Ecosystems* (XXXX) and via *Treesearch* (XXXX).
+This dataset and associated R code are available at https://github.com/sheilasaia/paper-yadkin-swat-svi-study and via [Zenodo](https://doi.org/10.5281/zenodo.2635878). The associated publication is available via [*Ecosystems*](https://link.springer.com/article/10.1007/s10021-019-00387-5) and via [*TreeSearch*](XXXX).
 
 **Links/relationships to ancillary data sets**<br>
 All links to publically available data are described here, in Saia et al. (2019), and [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780).
@@ -51,10 +51,10 @@ This directory does not include all environmental data required to run and calib
 All publically available data is described here, in Saia et al. (2019), and in [Suttles et al. (2018)](https://www.fs.usda.gov/treesearch/pubs/56780). With respect to simulated data and data analysis scripts, there are no other versions available online.
 
 **Recommended citation for the data**<br>
-Saia, S.M., K.M. Suttles, B.B. Cutts, R.E. Emanuel, K.L. Martin, D.N. Wear, J.W. Coulston, J.M. Vose. 2019. Applying Climate Change Risk Management Tools to Integrate Streamflow Projections and Social Vulnerability. *Ecosystems*. XXXX(XXXX):XXXX-XXXX.
+Saia, S.M., K.M. Suttles, B.B. Cutts, R.E. Emanuel, K.L. Martin, D.N. Wear, J.W. Coulston, J.M. Vose. 2019. Applying Climate Change Risk Management Tools to Integrate Streamflow Projections and Social Vulnerability. *Ecosystems*. XXXX(XXXX):XXXX-XXXX. [link](https://link.springer.com/article/10.1007/s10021-019-00387-5)
 
 **Paper Availability**<br>
-The paper is available online at via [*Ecosystems*](XXXX) and [*Treesearch*](XXXX). If you do not have a subscription to the journal or are having trouble accessing it, please contact Sheila Saia directly for a copy of the pre-print.
+The paper is available online at via [*Ecosystems*](https://link.springer.com/article/10.1007/s10021-019-00387-5) and [*TreeSearch*](XXXX). If you do not have a subscription to the journal or are having trouble accessing it, please contact Sheila Saia directly for a copy of the pre-print.
 
 ## Data & File Overview ##
 This repository is organized into two main directories: (1) swat\_svi\_python\_analysis and (2) swat\_svi\_r\_analysis.
